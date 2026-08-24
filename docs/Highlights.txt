@@ -1,0 +1,5 @@
+• FICD treats scalarization-form uncertainty before chemical diversification.
+• Cross-family eligibility prevents diversity from rescuing weak candidates.
+• Regret-preserving swaps increase composition diversity without worse regret.
+• ElMD and leave-one-family-out tests support robustness beyond the main score.
+• External space-group coverage checks diversity not used during selection.

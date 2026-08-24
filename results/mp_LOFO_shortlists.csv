@@ -1,0 +1,201 @@
+dataset,heldout_family,method,rank,material_id,formula
+MP,arith,LOFO quality seed,1,mp-770533,Li6MnO4
+MP,arith,LOFO quality seed,2,mp-18988,Li2MnO3
+MP,arith,LOFO quality seed,3,mp-770534,Li2Mn3O7
+MP,arith,LOFO quality seed,4,mp-756408,Li3MnO3
+MP,arith,LOFO quality seed,5,mp-531604,LiMnO2
+MP,arith,LOFO quality seed,6,mp-25542,LiMnO2
+MP,arith,LOFO quality seed,7,mp-754656,LiMnO2
+MP,arith,LOFO quality seed,8,mp-1173952,Li3Mn2O5
+MP,arith,LOFO quality seed,9,mp-1175354,Li7Mn5O12
+MP,arith,LOFO quality seed,10,mp-1004373,LiMnO2
+MP,arith,LOFO quality seed,11,mp-691115,Li4Mn5O12
+MP,arith,LOFO quality seed,12,mp-1284734,Li5Mn3O8
+MP,arith,LOFO quality seed,13,mp-1173962,Li3Mn2O5
+MP,arith,LOFO quality seed,14,mp-779008,Li4Mn3O8
+MP,arith,LOFO quality seed,15,mp-1175313,Li7Mn5O12
+MP,arith,LOFO quality seed,16,mp-1175314,Li7Mn5O12
+MP,arith,LOFO quality seed,17,mp-1175349,Li7Mn5O12
+MP,arith,LOFO quality seed,18,mp-19279,Li2MnO2
+MP,arith,LOFO quality seed,19,mp-1638896,Li5Mn6O12
+MP,arith,LOFO quality seed,20,mp-1643099,Li7Mn5O12
+MP,arith,LOFO quality seed,21,mp-753028,Li3Mn4O8
+MP,arith,LOFO quality seed,22,mp-675370,LiMnO2
+MP,arith,LOFO quality seed,23,mp-530177,Li5Mn7O16
+MP,arith,LOFO quality seed,24,mp-2506805,LiMnO2
+MP,arith,LOFO quality seed,25,mp-755817,Li8MnO6
+MP,arith,LOFO FICD,1,mp-755817,Li8MnO6
+MP,arith,LOFO FICD,2,mp-18988,Li2MnO3
+MP,arith,LOFO FICD,3,mp-770534,Li2Mn3O7
+MP,arith,LOFO FICD,4,mp-756408,Li3MnO3
+MP,arith,LOFO FICD,5,mp-531604,LiMnO2
+MP,arith,LOFO FICD,6,mp-25542,LiMnO2
+MP,arith,LOFO FICD,7,mp-754656,LiMnO2
+MP,arith,LOFO FICD,8,mp-1173952,Li3Mn2O5
+MP,arith,LOFO FICD,9,mp-1175354,Li7Mn5O12
+MP,arith,LOFO FICD,10,mp-1004373,LiMnO2
+MP,arith,LOFO FICD,11,mp-691115,Li4Mn5O12
+MP,arith,LOFO FICD,12,mp-1284734,Li5Mn3O8
+MP,arith,LOFO FICD,13,mp-1173962,Li3Mn2O5
+MP,arith,LOFO FICD,14,mp-779008,Li4Mn3O8
+MP,arith,LOFO FICD,15,mp-1175313,Li7Mn5O12
+MP,arith,LOFO FICD,16,mp-1175314,Li7Mn5O12
+MP,arith,LOFO FICD,17,mp-1175349,Li7Mn5O12
+MP,arith,LOFO FICD,18,mp-1639949,Li7Mn5O12
+MP,arith,LOFO FICD,19,mp-1638896,Li5Mn6O12
+MP,arith,LOFO FICD,20,mp-1643099,Li7Mn5O12
+MP,arith,LOFO FICD,21,mp-753028,Li3Mn4O8
+MP,arith,LOFO FICD,22,mp-675370,LiMnO2
+MP,arith,LOFO FICD,23,mp-530177,Li5Mn7O16
+MP,arith,LOFO FICD,24,mp-2506805,LiMnO2
+MP,arith,LOFO FICD,25,mp-1173947,Li3Mn2O5
+MP,geom,LOFO quality seed,1,mp-770533,Li6MnO4
+MP,geom,LOFO quality seed,2,mp-18988,Li2MnO3
+MP,geom,LOFO quality seed,3,mp-770534,Li2Mn3O7
+MP,geom,LOFO quality seed,4,mp-756408,Li3MnO3
+MP,geom,LOFO quality seed,5,mp-531604,LiMnO2
+MP,geom,LOFO quality seed,6,mp-754656,LiMnO2
+MP,geom,LOFO quality seed,7,mp-25542,LiMnO2
+MP,geom,LOFO quality seed,8,mp-1173952,Li3Mn2O5
+MP,geom,LOFO quality seed,9,mp-1175354,Li7Mn5O12
+MP,geom,LOFO quality seed,10,mp-1004373,LiMnO2
+MP,geom,LOFO quality seed,11,mp-691115,Li4Mn5O12
+MP,geom,LOFO quality seed,12,mp-1284734,Li5Mn3O8
+MP,geom,LOFO quality seed,13,mp-1173962,Li3Mn2O5
+MP,geom,LOFO quality seed,14,mp-779008,Li4Mn3O8
+MP,geom,LOFO quality seed,15,mp-1175314,Li7Mn5O12
+MP,geom,LOFO quality seed,16,mp-19279,Li2MnO2
+MP,geom,LOFO quality seed,17,mp-675370,LiMnO2
+MP,geom,LOFO quality seed,18,mp-530177,Li5Mn7O16
+MP,geom,LOFO quality seed,19,mp-2506805,LiMnO2
+MP,geom,LOFO quality seed,20,mp-755817,Li8MnO6
+MP,geom,LOFO quality seed,21,mp-1175313,Li7Mn5O12
+MP,geom,LOFO quality seed,22,mp-1175349,Li7Mn5O12
+MP,geom,LOFO quality seed,23,mp-1639949,Li7Mn5O12
+MP,geom,LOFO quality seed,24,mp-1174296,Li4Mn3O7
+MP,geom,LOFO quality seed,25,mp-1174244,Li4Mn3O7
+MP,geom,LOFO FICD,1,mp-770533,Li6MnO4
+MP,geom,LOFO FICD,2,mp-18988,Li2MnO3
+MP,geom,LOFO FICD,3,mp-770534,Li2Mn3O7
+MP,geom,LOFO FICD,4,mp-756408,Li3MnO3
+MP,geom,LOFO FICD,5,mp-531604,LiMnO2
+MP,geom,LOFO FICD,6,mp-754656,LiMnO2
+MP,geom,LOFO FICD,7,mp-25542,LiMnO2
+MP,geom,LOFO FICD,8,mp-1173952,Li3Mn2O5
+MP,geom,LOFO FICD,9,mp-1175354,Li7Mn5O12
+MP,geom,LOFO FICD,10,mp-1004373,LiMnO2
+MP,geom,LOFO FICD,11,mp-691115,Li4Mn5O12
+MP,geom,LOFO FICD,12,mp-1284734,Li5Mn3O8
+MP,geom,LOFO FICD,13,mp-1173962,Li3Mn2O5
+MP,geom,LOFO FICD,14,mp-779008,Li4Mn3O8
+MP,geom,LOFO FICD,15,mp-1175314,Li7Mn5O12
+MP,geom,LOFO FICD,16,mp-19279,Li2MnO2
+MP,geom,LOFO FICD,17,mp-675370,LiMnO2
+MP,geom,LOFO FICD,18,mp-1173947,Li3Mn2O5
+MP,geom,LOFO FICD,19,mp-2506805,LiMnO2
+MP,geom,LOFO FICD,20,mp-1643099,Li7Mn5O12
+MP,geom,LOFO FICD,21,mp-1175313,Li7Mn5O12
+MP,geom,LOFO FICD,22,mp-1175349,Li7Mn5O12
+MP,geom,LOFO FICD,23,mp-1639949,Li7Mn5O12
+MP,geom,LOFO FICD,24,mp-1174296,Li4Mn3O7
+MP,geom,LOFO FICD,25,mp-1174244,Li4Mn3O7
+MP,harm,LOFO quality seed,1,mp-770533,Li6MnO4
+MP,harm,LOFO quality seed,2,mp-18988,Li2MnO3
+MP,harm,LOFO quality seed,3,mp-770534,Li2Mn3O7
+MP,harm,LOFO quality seed,4,mp-756408,Li3MnO3
+MP,harm,LOFO quality seed,5,mp-531604,LiMnO2
+MP,harm,LOFO quality seed,6,mp-754656,LiMnO2
+MP,harm,LOFO quality seed,7,mp-25542,LiMnO2
+MP,harm,LOFO quality seed,8,mp-1173952,Li3Mn2O5
+MP,harm,LOFO quality seed,9,mp-1175354,Li7Mn5O12
+MP,harm,LOFO quality seed,10,mp-1004373,LiMnO2
+MP,harm,LOFO quality seed,11,mp-691115,Li4Mn5O12
+MP,harm,LOFO quality seed,12,mp-1284734,Li5Mn3O8
+MP,harm,LOFO quality seed,13,mp-1175314,Li7Mn5O12
+MP,harm,LOFO quality seed,14,mp-1173962,Li3Mn2O5
+MP,harm,LOFO quality seed,15,mp-779008,Li4Mn3O8
+MP,harm,LOFO quality seed,16,mp-19279,Li2MnO2
+MP,harm,LOFO quality seed,17,mp-675370,LiMnO2
+MP,harm,LOFO quality seed,18,mp-530177,Li5Mn7O16
+MP,harm,LOFO quality seed,19,mp-2506805,LiMnO2
+MP,harm,LOFO quality seed,20,mp-755817,Li8MnO6
+MP,harm,LOFO quality seed,21,mp-1175313,Li7Mn5O12
+MP,harm,LOFO quality seed,22,mp-1175349,Li7Mn5O12
+MP,harm,LOFO quality seed,23,mp-764764,Li7Mn5O12
+MP,harm,LOFO quality seed,24,mp-1638896,Li5Mn6O12
+MP,harm,LOFO quality seed,25,mp-753028,Li3Mn4O8
+MP,harm,LOFO FICD,1,mp-770533,Li6MnO4
+MP,harm,LOFO FICD,2,mp-18988,Li2MnO3
+MP,harm,LOFO FICD,3,mp-770534,Li2Mn3O7
+MP,harm,LOFO FICD,4,mp-756408,Li3MnO3
+MP,harm,LOFO FICD,5,mp-531604,LiMnO2
+MP,harm,LOFO FICD,6,mp-754656,LiMnO2
+MP,harm,LOFO FICD,7,mp-25542,LiMnO2
+MP,harm,LOFO FICD,8,mp-1173952,Li3Mn2O5
+MP,harm,LOFO FICD,9,mp-1175354,Li7Mn5O12
+MP,harm,LOFO FICD,10,mp-1004373,LiMnO2
+MP,harm,LOFO FICD,11,mp-691115,Li4Mn5O12
+MP,harm,LOFO FICD,12,mp-1284734,Li5Mn3O8
+MP,harm,LOFO FICD,13,mp-1175314,Li7Mn5O12
+MP,harm,LOFO FICD,14,mp-1643099,Li7Mn5O12
+MP,harm,LOFO FICD,15,mp-779008,Li4Mn3O8
+MP,harm,LOFO FICD,16,mp-19279,Li2MnO2
+MP,harm,LOFO FICD,17,mp-675370,LiMnO2
+MP,harm,LOFO FICD,18,mp-530177,Li5Mn7O16
+MP,harm,LOFO FICD,19,mp-2506805,LiMnO2
+MP,harm,LOFO FICD,20,mp-755817,Li8MnO6
+MP,harm,LOFO FICD,21,mp-1175313,Li7Mn5O12
+MP,harm,LOFO FICD,22,mp-1175349,Li7Mn5O12
+MP,harm,LOFO FICD,23,mp-1176672,LiMn3O6
+MP,harm,LOFO FICD,24,mp-1638896,Li5Mn6O12
+MP,harm,LOFO FICD,25,mp-753028,Li3Mn4O8
+MP,cheb,LOFO quality seed,1,mp-770533,Li6MnO4
+MP,cheb,LOFO quality seed,2,mp-18988,Li2MnO3
+MP,cheb,LOFO quality seed,3,mp-754656,LiMnO2
+MP,cheb,LOFO quality seed,4,mp-770534,Li2Mn3O7
+MP,cheb,LOFO quality seed,5,mp-756408,Li3MnO3
+MP,cheb,LOFO quality seed,6,mp-691115,Li4Mn5O12
+MP,cheb,LOFO quality seed,7,mp-531604,LiMnO2
+MP,cheb,LOFO quality seed,8,mp-19279,Li2MnO2
+MP,cheb,LOFO quality seed,9,mp-530177,Li5Mn7O16
+MP,cheb,LOFO quality seed,10,mp-25542,LiMnO2
+MP,cheb,LOFO quality seed,11,mp-1175314,Li7Mn5O12
+MP,cheb,LOFO quality seed,12,mp-1004373,LiMnO2
+MP,cheb,LOFO quality seed,13,mp-1173952,Li3Mn2O5
+MP,cheb,LOFO quality seed,14,mp-779008,Li4Mn3O8
+MP,cheb,LOFO quality seed,15,mp-1175354,Li7Mn5O12
+MP,cheb,LOFO quality seed,16,mp-675370,LiMnO2
+MP,cheb,LOFO quality seed,17,mp-1173962,Li3Mn2O5
+MP,cheb,LOFO quality seed,18,mp-1284734,Li5Mn3O8
+MP,cheb,LOFO quality seed,19,mp-755817,Li8MnO6
+MP,cheb,LOFO quality seed,20,mp-2506805,LiMnO2
+MP,cheb,LOFO quality seed,21,mp-1175313,Li7Mn5O12
+MP,cheb,LOFO quality seed,22,mp-1175349,Li7Mn5O12
+MP,cheb,LOFO quality seed,23,mp-753028,Li3Mn4O8
+MP,cheb,LOFO quality seed,24,mp-1638896,Li5Mn6O12
+MP,cheb,LOFO quality seed,25,mp-1643099,Li7Mn5O12
+MP,cheb,LOFO FICD,1,mp-770533,Li6MnO4
+MP,cheb,LOFO FICD,2,mp-18988,Li2MnO3
+MP,cheb,LOFO FICD,3,mp-754656,LiMnO2
+MP,cheb,LOFO FICD,4,mp-770534,Li2Mn3O7
+MP,cheb,LOFO FICD,5,mp-756408,Li3MnO3
+MP,cheb,LOFO FICD,6,mp-691115,Li4Mn5O12
+MP,cheb,LOFO FICD,7,mp-531604,LiMnO2
+MP,cheb,LOFO FICD,8,mp-19279,Li2MnO2
+MP,cheb,LOFO FICD,9,mp-530177,Li5Mn7O16
+MP,cheb,LOFO FICD,10,mp-25542,LiMnO2
+MP,cheb,LOFO FICD,11,mp-1175314,Li7Mn5O12
+MP,cheb,LOFO FICD,12,mp-1004373,LiMnO2
+MP,cheb,LOFO FICD,13,mp-1173952,Li3Mn2O5
+MP,cheb,LOFO FICD,14,mp-779008,Li4Mn3O8
+MP,cheb,LOFO FICD,15,mp-1175354,Li7Mn5O12
+MP,cheb,LOFO FICD,16,mp-675370,LiMnO2
+MP,cheb,LOFO FICD,17,mp-1173962,Li3Mn2O5
+MP,cheb,LOFO FICD,18,mp-1284734,Li5Mn3O8
+MP,cheb,LOFO FICD,19,mp-776365,Li9Mn21O40
+MP,cheb,LOFO FICD,20,mp-2506805,LiMnO2
+MP,cheb,LOFO FICD,21,mp-1175313,Li7Mn5O12
+MP,cheb,LOFO FICD,22,mp-1175349,Li7Mn5O12
+MP,cheb,LOFO FICD,23,mp-753028,Li3Mn4O8
+MP,cheb,LOFO FICD,24,mp-1638896,Li5Mn6O12
+MP,cheb,LOFO FICD,25,mp-1643099,Li7Mn5O12

@@ -1,0 +1,20 @@
+FICD validation v0.4 completed successfully.
+K = 25
+
+Core FICD v0.3 was frozen; v0.4 adds validation only.
+
+Completed:
+1) FIXED family-support sensitivity bookkeeping
+2) Leave-one-scoring-family-out validation
+3) MP external structural validation
+4) Official ElMD distance validation: COMPLETED
+
+Please send back the ENTIRE results folder.
+Also send cache/ if possible, especially the ElMD matrices.
+
+Most important files:
+- results/distance_metric_validation_all.csv
+- results/LOFO_external_formula_validation_all.csv
+- results/mp_external_structural_validation.csv
+- results/family_support_sensitivity_FIXED_all.csv
+- results/frozen_v03_core_reproduction.csv

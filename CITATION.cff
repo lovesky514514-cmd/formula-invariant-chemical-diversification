@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived FICD release and the associated article. Lu Zhang is the lead/corresponding author; Gaoding Zhou is a supporting co-author."
+title: "Formula-Invariant Chemical Diversification for Robust Candidate Shortlisting in Oxide Materials Databases"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Lu
+    affiliation: "School of Materials Science and Engineering, Changchun University of Science and Technology"
+  - family-names: Zhou
+    given-names: Gaoding
+    affiliation: "School of Artificial Intelligence, Changchun University of Science and Technology"
+version: 1.0.0
+date-released: 2026-08-24
+keywords:
+  - materials informatics
+  - candidate prioritization
+  - robust ranking
+  - chemical diversity
+  - oxide materials
+  - band gap
+license: MIT

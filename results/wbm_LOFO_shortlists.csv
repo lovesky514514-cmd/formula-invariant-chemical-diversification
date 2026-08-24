@@ -1,0 +1,201 @@
+dataset,heldout_family,method,rank,material_id,formula
+WBM,arith,LOFO quality seed,1,wbm-1-24239,Li3 O4 V1
+WBM,arith,LOFO quality seed,2,wbm-1-23832,Li4 O6 Ti2
+WBM,arith,LOFO quality seed,3,wbm-2-34141,Na4 O6 Ti2
+WBM,arith,LOFO quality seed,4,wbm-1-39179,Na4 O6 Ti2
+WBM,arith,LOFO quality seed,5,wbm-1-23833,Li2 O3 Ti1
+WBM,arith,LOFO quality seed,6,wbm-1-6849,C2 Na2 Ni1 O6
+WBM,arith,LOFO quality seed,7,wbm-3-36441,Li2 O7 V2 Yb1
+WBM,arith,LOFO quality seed,8,wbm-2-34844,Na3 O4 V1
+WBM,arith,LOFO quality seed,9,wbm-2-23814,Li2 O3 Ti1
+WBM,arith,LOFO quality seed,10,wbm-2-24662,Li1 O7 P2 V1
+WBM,arith,LOFO quality seed,11,wbm-1-25771,Li3 O6 V3
+WBM,arith,LOFO quality seed,12,wbm-1-24246,Li3 O6 Sc2 V1
+WBM,arith,LOFO quality seed,13,wbm-2-36440,Na1 O7 P2 V1
+WBM,arith,LOFO quality seed,14,wbm-4-18471,Co1 Li1 O2
+WBM,arith,LOFO quality seed,15,wbm-1-40948,Mn1 Na3 O4
+WBM,arith,LOFO quality seed,16,wbm-1-25667,Co4 Li4 O8
+WBM,arith,LOFO quality seed,17,wbm-1-37315,Co1 Na1 O2
+WBM,arith,LOFO quality seed,18,wbm-1-39263,Na2 O6 V2
+WBM,arith,LOFO quality seed,19,wbm-1-25669,Co4 Li4 O8
+WBM,arith,LOFO quality seed,20,wbm-2-23864,Li2 O7 V2 Yb1
+WBM,arith,LOFO quality seed,21,wbm-1-25827,Li2 O6 V2
+WBM,arith,LOFO quality seed,22,wbm-1-25826,Li2 O6 V2
+WBM,arith,LOFO quality seed,23,wbm-1-39261,Na4 O12 V4
+WBM,arith,LOFO quality seed,24,wbm-3-36434,Li2 O7 Th1 Ti2
+WBM,arith,LOFO quality seed,25,wbm-1-23871,Li2 Ni1 O4 Zr1
+WBM,arith,LOFO FICD,1,wbm-1-24239,Li3 O4 V1
+WBM,arith,LOFO FICD,2,wbm-1-23832,Li4 O6 Ti2
+WBM,arith,LOFO FICD,3,wbm-2-34141,Na4 O6 Ti2
+WBM,arith,LOFO FICD,4,wbm-1-39179,Na4 O6 Ti2
+WBM,arith,LOFO FICD,5,wbm-1-23833,Li2 O3 Ti1
+WBM,arith,LOFO FICD,6,wbm-1-6849,C2 Na2 Ni1 O6
+WBM,arith,LOFO FICD,7,wbm-3-36441,Li2 O7 V2 Yb1
+WBM,arith,LOFO FICD,8,wbm-2-34844,Na3 O4 V1
+WBM,arith,LOFO FICD,9,wbm-2-23814,Li2 O3 Ti1
+WBM,arith,LOFO FICD,10,wbm-2-24662,Li1 O7 P2 V1
+WBM,arith,LOFO FICD,11,wbm-1-25771,Li3 O6 V3
+WBM,arith,LOFO FICD,12,wbm-1-24246,Li3 O6 Sc2 V1
+WBM,arith,LOFO FICD,13,wbm-2-34837,Co1 Na3 O4
+WBM,arith,LOFO FICD,14,wbm-4-18471,Co1 Li1 O2
+WBM,arith,LOFO FICD,15,wbm-1-40948,Mn1 Na3 O4
+WBM,arith,LOFO FICD,16,wbm-1-25667,Co4 Li4 O8
+WBM,arith,LOFO FICD,17,wbm-1-37315,Co1 Na1 O2
+WBM,arith,LOFO FICD,18,wbm-1-39263,Na2 O6 V2
+WBM,arith,LOFO FICD,19,wbm-1-25669,Co4 Li4 O8
+WBM,arith,LOFO FICD,20,wbm-2-23864,Li2 O7 V2 Yb1
+WBM,arith,LOFO FICD,21,wbm-1-25827,Li2 O6 V2
+WBM,arith,LOFO FICD,22,wbm-1-25826,Li2 O6 V2
+WBM,arith,LOFO FICD,23,wbm-2-36429,Mn1 Na1 O7 P2
+WBM,arith,LOFO FICD,24,wbm-3-36434,Li2 O7 Th1 Ti2
+WBM,arith,LOFO FICD,25,wbm-1-23871,Li2 Ni1 O4 Zr1
+WBM,geom,LOFO quality seed,1,wbm-1-24239,Li3 O4 V1
+WBM,geom,LOFO quality seed,2,wbm-1-23832,Li4 O6 Ti2
+WBM,geom,LOFO quality seed,3,wbm-2-34141,Na4 O6 Ti2
+WBM,geom,LOFO quality seed,4,wbm-1-39179,Na4 O6 Ti2
+WBM,geom,LOFO quality seed,5,wbm-1-23833,Li2 O3 Ti1
+WBM,geom,LOFO quality seed,6,wbm-1-6849,C2 Na2 Ni1 O6
+WBM,geom,LOFO quality seed,7,wbm-3-36441,Li2 O7 V2 Yb1
+WBM,geom,LOFO quality seed,8,wbm-2-34844,Na3 O4 V1
+WBM,geom,LOFO quality seed,9,wbm-2-24662,Li1 O7 P2 V1
+WBM,geom,LOFO quality seed,10,wbm-2-23814,Li2 O3 Ti1
+WBM,geom,LOFO quality seed,11,wbm-1-25771,Li3 O6 V3
+WBM,geom,LOFO quality seed,12,wbm-1-24246,Li3 O6 Sc2 V1
+WBM,geom,LOFO quality seed,13,wbm-2-36440,Na1 O7 P2 V1
+WBM,geom,LOFO quality seed,14,wbm-1-40948,Mn1 Na3 O4
+WBM,geom,LOFO quality seed,15,wbm-4-18471,Co1 Li1 O2
+WBM,geom,LOFO quality seed,16,wbm-1-25667,Co4 Li4 O8
+WBM,geom,LOFO quality seed,17,wbm-1-39263,Na2 O6 V2
+WBM,geom,LOFO quality seed,18,wbm-1-25669,Co4 Li4 O8
+WBM,geom,LOFO quality seed,19,wbm-1-37315,Co1 Na1 O2
+WBM,geom,LOFO quality seed,20,wbm-2-23864,Li2 O7 V2 Yb1
+WBM,geom,LOFO quality seed,21,wbm-1-25827,Li2 O6 V2
+WBM,geom,LOFO quality seed,22,wbm-1-25826,Li2 O6 V2
+WBM,geom,LOFO quality seed,23,wbm-1-39261,Na4 O12 V4
+WBM,geom,LOFO quality seed,24,wbm-1-23871,Li2 Ni1 O4 Zr1
+WBM,geom,LOFO quality seed,25,wbm-2-34837,Co1 Na3 O4
+WBM,geom,LOFO FICD,1,wbm-1-24239,Li3 O4 V1
+WBM,geom,LOFO FICD,2,wbm-1-23832,Li4 O6 Ti2
+WBM,geom,LOFO FICD,3,wbm-2-34141,Na4 O6 Ti2
+WBM,geom,LOFO FICD,4,wbm-1-39179,Na4 O6 Ti2
+WBM,geom,LOFO FICD,5,wbm-1-23833,Li2 O3 Ti1
+WBM,geom,LOFO FICD,6,wbm-1-6849,C2 Na2 Ni1 O6
+WBM,geom,LOFO FICD,7,wbm-3-36441,Li2 O7 V2 Yb1
+WBM,geom,LOFO FICD,8,wbm-2-34844,Na3 O4 V1
+WBM,geom,LOFO FICD,9,wbm-2-24662,Li1 O7 P2 V1
+WBM,geom,LOFO FICD,10,wbm-2-23814,Li2 O3 Ti1
+WBM,geom,LOFO FICD,11,wbm-1-25771,Li3 O6 V3
+WBM,geom,LOFO FICD,12,wbm-1-24246,Li3 O6 Sc2 V1
+WBM,geom,LOFO FICD,13,wbm-2-36429,Mn1 Na1 O7 P2
+WBM,geom,LOFO FICD,14,wbm-1-40948,Mn1 Na3 O4
+WBM,geom,LOFO FICD,15,wbm-4-18471,Co1 Li1 O2
+WBM,geom,LOFO FICD,16,wbm-1-25667,Co4 Li4 O8
+WBM,geom,LOFO FICD,17,wbm-1-39263,Na2 O6 V2
+WBM,geom,LOFO FICD,18,wbm-1-25669,Co4 Li4 O8
+WBM,geom,LOFO FICD,19,wbm-1-37315,Co1 Na1 O2
+WBM,geom,LOFO FICD,20,wbm-2-23864,Li2 O7 V2 Yb1
+WBM,geom,LOFO FICD,21,wbm-1-25827,Li2 O6 V2
+WBM,geom,LOFO FICD,22,wbm-1-25826,Li2 O6 V2
+WBM,geom,LOFO FICD,23,wbm-1-39261,Na4 O12 V4
+WBM,geom,LOFO FICD,24,wbm-1-23871,Li2 Ni1 O4 Zr1
+WBM,geom,LOFO FICD,25,wbm-2-34837,Co1 Na3 O4
+WBM,harm,LOFO quality seed,1,wbm-1-24239,Li3 O4 V1
+WBM,harm,LOFO quality seed,2,wbm-1-23832,Li4 O6 Ti2
+WBM,harm,LOFO quality seed,3,wbm-2-34141,Na4 O6 Ti2
+WBM,harm,LOFO quality seed,4,wbm-1-39179,Na4 O6 Ti2
+WBM,harm,LOFO quality seed,5,wbm-1-23833,Li2 O3 Ti1
+WBM,harm,LOFO quality seed,6,wbm-1-6849,C2 Na2 Ni1 O6
+WBM,harm,LOFO quality seed,7,wbm-3-36441,Li2 O7 V2 Yb1
+WBM,harm,LOFO quality seed,8,wbm-2-34844,Na3 O4 V1
+WBM,harm,LOFO quality seed,9,wbm-2-24662,Li1 O7 P2 V1
+WBM,harm,LOFO quality seed,10,wbm-2-23814,Li2 O3 Ti1
+WBM,harm,LOFO quality seed,11,wbm-1-25771,Li3 O6 V3
+WBM,harm,LOFO quality seed,12,wbm-1-24246,Li3 O6 Sc2 V1
+WBM,harm,LOFO quality seed,13,wbm-2-36440,Na1 O7 P2 V1
+WBM,harm,LOFO quality seed,14,wbm-1-40948,Mn1 Na3 O4
+WBM,harm,LOFO quality seed,15,wbm-4-18471,Co1 Li1 O2
+WBM,harm,LOFO quality seed,16,wbm-1-25667,Co4 Li4 O8
+WBM,harm,LOFO quality seed,17,wbm-1-39263,Na2 O6 V2
+WBM,harm,LOFO quality seed,18,wbm-1-25669,Co4 Li4 O8
+WBM,harm,LOFO quality seed,19,wbm-1-37315,Co1 Na1 O2
+WBM,harm,LOFO quality seed,20,wbm-2-23864,Li2 O7 V2 Yb1
+WBM,harm,LOFO quality seed,21,wbm-1-25827,Li2 O6 V2
+WBM,harm,LOFO quality seed,22,wbm-1-25826,Li2 O6 V2
+WBM,harm,LOFO quality seed,23,wbm-1-39261,Na4 O12 V4
+WBM,harm,LOFO quality seed,24,wbm-1-23871,Li2 Ni1 O4 Zr1
+WBM,harm,LOFO quality seed,25,wbm-2-34837,Co1 Na3 O4
+WBM,harm,LOFO FICD,1,wbm-1-24239,Li3 O4 V1
+WBM,harm,LOFO FICD,2,wbm-1-23832,Li4 O6 Ti2
+WBM,harm,LOFO FICD,3,wbm-2-34141,Na4 O6 Ti2
+WBM,harm,LOFO FICD,4,wbm-1-39179,Na4 O6 Ti2
+WBM,harm,LOFO FICD,5,wbm-1-23833,Li2 O3 Ti1
+WBM,harm,LOFO FICD,6,wbm-1-6849,C2 Na2 Ni1 O6
+WBM,harm,LOFO FICD,7,wbm-3-36441,Li2 O7 V2 Yb1
+WBM,harm,LOFO FICD,8,wbm-2-34844,Na3 O4 V1
+WBM,harm,LOFO FICD,9,wbm-2-24662,Li1 O7 P2 V1
+WBM,harm,LOFO FICD,10,wbm-2-23814,Li2 O3 Ti1
+WBM,harm,LOFO FICD,11,wbm-1-25771,Li3 O6 V3
+WBM,harm,LOFO FICD,12,wbm-1-24246,Li3 O6 Sc2 V1
+WBM,harm,LOFO FICD,13,wbm-2-36429,Mn1 Na1 O7 P2
+WBM,harm,LOFO FICD,14,wbm-1-40948,Mn1 Na3 O4
+WBM,harm,LOFO FICD,15,wbm-4-18471,Co1 Li1 O2
+WBM,harm,LOFO FICD,16,wbm-1-25667,Co4 Li4 O8
+WBM,harm,LOFO FICD,17,wbm-1-39263,Na2 O6 V2
+WBM,harm,LOFO FICD,18,wbm-1-25669,Co4 Li4 O8
+WBM,harm,LOFO FICD,19,wbm-1-37315,Co1 Na1 O2
+WBM,harm,LOFO FICD,20,wbm-2-23864,Li2 O7 V2 Yb1
+WBM,harm,LOFO FICD,21,wbm-1-25827,Li2 O6 V2
+WBM,harm,LOFO FICD,22,wbm-1-25826,Li2 O6 V2
+WBM,harm,LOFO FICD,23,wbm-1-39261,Na4 O12 V4
+WBM,harm,LOFO FICD,24,wbm-1-23871,Li2 Ni1 O4 Zr1
+WBM,harm,LOFO FICD,25,wbm-2-34837,Co1 Na3 O4
+WBM,cheb,LOFO quality seed,1,wbm-1-23832,Li4 O6 Ti2
+WBM,cheb,LOFO quality seed,2,wbm-1-24239,Li3 O4 V1
+WBM,cheb,LOFO quality seed,3,wbm-2-34141,Na4 O6 Ti2
+WBM,cheb,LOFO quality seed,4,wbm-1-39179,Na4 O6 Ti2
+WBM,cheb,LOFO quality seed,5,wbm-1-6849,C2 Na2 Ni1 O6
+WBM,cheb,LOFO quality seed,6,wbm-1-23833,Li2 O3 Ti1
+WBM,cheb,LOFO quality seed,7,wbm-3-36441,Li2 O7 V2 Yb1
+WBM,cheb,LOFO quality seed,8,wbm-2-24662,Li1 O7 P2 V1
+WBM,cheb,LOFO quality seed,9,wbm-2-34844,Na3 O4 V1
+WBM,cheb,LOFO quality seed,10,wbm-1-25771,Li3 O6 V3
+WBM,cheb,LOFO quality seed,11,wbm-1-40948,Mn1 Na3 O4
+WBM,cheb,LOFO quality seed,12,wbm-2-23814,Li2 O3 Ti1
+WBM,cheb,LOFO quality seed,13,wbm-2-36440,Na1 O7 P2 V1
+WBM,cheb,LOFO quality seed,14,wbm-1-24246,Li3 O6 Sc2 V1
+WBM,cheb,LOFO quality seed,15,wbm-1-39263,Na2 O6 V2
+WBM,cheb,LOFO quality seed,16,wbm-4-18471,Co1 Li1 O2
+WBM,cheb,LOFO quality seed,17,wbm-1-25667,Co4 Li4 O8
+WBM,cheb,LOFO quality seed,18,wbm-1-25669,Co4 Li4 O8
+WBM,cheb,LOFO quality seed,19,wbm-2-23864,Li2 O7 V2 Yb1
+WBM,cheb,LOFO quality seed,20,wbm-1-37315,Co1 Na1 O2
+WBM,cheb,LOFO quality seed,21,wbm-1-25827,Li2 O6 V2
+WBM,cheb,LOFO quality seed,22,wbm-1-25826,Li2 O6 V2
+WBM,cheb,LOFO quality seed,23,wbm-1-39261,Na4 O12 V4
+WBM,cheb,LOFO quality seed,24,wbm-1-23871,Li2 Ni1 O4 Zr1
+WBM,cheb,LOFO quality seed,25,wbm-2-34837,Co1 Na3 O4
+WBM,cheb,LOFO FICD,1,wbm-1-23832,Li4 O6 Ti2
+WBM,cheb,LOFO FICD,2,wbm-1-24239,Li3 O4 V1
+WBM,cheb,LOFO FICD,3,wbm-2-34141,Na4 O6 Ti2
+WBM,cheb,LOFO FICD,4,wbm-1-39179,Na4 O6 Ti2
+WBM,cheb,LOFO FICD,5,wbm-1-6849,C2 Na2 Ni1 O6
+WBM,cheb,LOFO FICD,6,wbm-1-23833,Li2 O3 Ti1
+WBM,cheb,LOFO FICD,7,wbm-3-36441,Li2 O7 V2 Yb1
+WBM,cheb,LOFO FICD,8,wbm-2-24662,Li1 O7 P2 V1
+WBM,cheb,LOFO FICD,9,wbm-2-34844,Na3 O4 V1
+WBM,cheb,LOFO FICD,10,wbm-1-25771,Li3 O6 V3
+WBM,cheb,LOFO FICD,11,wbm-1-40948,Mn1 Na3 O4
+WBM,cheb,LOFO FICD,12,wbm-2-23814,Li2 O3 Ti1
+WBM,cheb,LOFO FICD,13,wbm-2-36440,Na1 O7 P2 V1
+WBM,cheb,LOFO FICD,14,wbm-1-24246,Li3 O6 Sc2 V1
+WBM,cheb,LOFO FICD,15,wbm-1-39263,Na2 O6 V2
+WBM,cheb,LOFO FICD,16,wbm-4-18471,Co1 Li1 O2
+WBM,cheb,LOFO FICD,17,wbm-1-25667,Co4 Li4 O8
+WBM,cheb,LOFO FICD,18,wbm-1-25669,Co4 Li4 O8
+WBM,cheb,LOFO FICD,19,wbm-2-23864,Li2 O7 V2 Yb1
+WBM,cheb,LOFO FICD,20,wbm-1-37315,Co1 Na1 O2
+WBM,cheb,LOFO FICD,21,wbm-1-25827,Li2 O6 V2
+WBM,cheb,LOFO FICD,22,wbm-1-25826,Li2 O6 V2
+WBM,cheb,LOFO FICD,23,wbm-1-39261,Na4 O12 V4
+WBM,cheb,LOFO FICD,24,wbm-1-23871,Li2 Ni1 O4 Zr1
+WBM,cheb,LOFO FICD,25,wbm-2-36429,Mn1 Na1 O7 P2

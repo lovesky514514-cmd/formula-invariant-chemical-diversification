@@ -1,0 +1,50 @@
+{
+  "MP": {
+    "admissible_candidates": 208,
+    "K": 25,
+    "TV_reservoir_size": 39,
+    "TV_regret_budget": 0.08750000000000002,
+    "TV_accepted_swaps": 1,
+    "cation_elements": [
+      "Li",
+      "Mn"
+    ],
+    "ElMD_backend": {
+      "backend": "ElMD",
+      "metric": "fast(mod_petti)",
+      "elapsed_seconds": 0.904
+    },
+    "ElMD_accepted_swaps": 3
+  },
+  "WBM": {
+    "admissible_candidates": 45,
+    "K": 25,
+    "TV_reservoir_size": 28,
+    "TV_regret_budget": 0.0444444444444444,
+    "TV_accepted_swaps": 1,
+    "cation_elements": [
+      "Al",
+      "C",
+      "Co",
+      "Cu",
+      "Li",
+      "Mn",
+      "Na",
+      "Ni",
+      "P",
+      "Sc",
+      "Th",
+      "Ti",
+      "V",
+      "Yb",
+      "Zn",
+      "Zr"
+    ],
+    "ElMD_backend": {
+      "backend": "ElMD",
+      "metric": "fast(mod_petti)",
+      "elapsed_seconds": 0.052
+    },
+    "ElMD_accepted_swaps": 1
+  }
+}

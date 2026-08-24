@@ -1,0 +1,31 @@
+method,crystal_system,count,fraction
+Arithmetic TopK,Monoclinic,8,0.32
+Arithmetic TopK,Triclinic,8,0.32
+Arithmetic TopK,Orthorhombic,4,0.16
+Arithmetic TopK,Trigonal,3,0.12
+Arithmetic TopK,Tetragonal,2,0.08
+Geometric TopK,Monoclinic,10,0.4
+Geometric TopK,Triclinic,6,0.24
+Geometric TopK,Orthorhombic,4,0.16
+Geometric TopK,Trigonal,3,0.12
+Geometric TopK,Tetragonal,2,0.08
+MMR,Monoclinic,9,0.36
+MMR,Triclinic,7,0.28
+MMR,Orthorhombic,4,0.16
+MMR,Trigonal,3,0.12
+MMR,Tetragonal,2,0.08
+Cross-family Q seed,Monoclinic,9,0.36
+Cross-family Q seed,Triclinic,8,0.32
+Cross-family Q seed,Orthorhombic,3,0.12
+Cross-family Q seed,Trigonal,3,0.12
+Cross-family Q seed,Tetragonal,2,0.08
+FICD v0.3 (TV),Monoclinic,10,0.4
+FICD v0.3 (TV),Triclinic,7,0.28
+FICD v0.3 (TV),Orthorhombic,3,0.12
+FICD v0.3 (TV),Trigonal,3,0.12
+FICD v0.3 (TV),Tetragonal,2,0.08
+FICD v0.3 (ElMD),Triclinic,11,0.44
+FICD v0.3 (ElMD),Monoclinic,9,0.36
+FICD v0.3 (ElMD),Orthorhombic,2,0.08
+FICD v0.3 (ElMD),Trigonal,2,0.08
+FICD v0.3 (ElMD),Tetragonal,1,0.04
