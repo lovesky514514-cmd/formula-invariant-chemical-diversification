@@ -115,23 +115,10 @@ Across both oxide pools, frozen FICD increases chemical separation relative to i
 
 The manuscript copy in this repository is the **pre-Zenodo-DOI archival version**. Its Data Availability section intentionally contains a DOI placeholder. After the first GitHub release is archived by Zenodo, the DOI should be inserted into the submission manuscript before journal submission.
 
-## GitHub → Zenodo release
-
-Recommended repository name:
-
-`formula-invariant-chemical-diversification`
-
-Recommended first release:
-
-- Tag: `v1.0.0`
-- Release title: `FICD v1.0.0 – Materials Letters reproducibility release`
-
-After connecting the GitHub repository to Zenodo, create the GitHub Release. Zenodo can then archive that release and mint the DOI.
-
 ## License and third-party data
 
 The MIT License in this repository applies to the original FICD code and repository documentation authored for this project. It does **not** relicense third-party source data. See `DATA_LICENSE_NOTICE.md`.
 
 ## Citation
 
-A `CITATION.cff` file is provided for GitHub citation metadata. After Zenodo assigns a DOI, add the DOI to the citation metadata and to the journal manuscript.
+A `CITATION.cff` file is provided for GitHub citation metadata. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22081000.svg)](https://doi.org/10.5281/zenodo.22081000)
